@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".CadastroActivity">
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:paddingTop="5dp"
+        android:paddingBottom="11dp"
+        android:layout_width="match_parent"
+        android:layout_height="110dp"
+        android:src="@drawable/fluxok" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="33dp"
+        android:background="#748AA7"
+        android:text="mensagem"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textColor="#FFF"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:id="@+id/LinearLayout01"
+        android:paddingTop="5dp"
+        android:layout_marginHorizontal="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true">
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="125dp"
+            android:layout_weight="2"
+            android:layout_height="wrap_content"
+            android:paddingTop="05dp"
+            android:text="De:"
+            android:textAlignment="viewStart"
+            android:textColor="#000"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/caixa_nome"
+            android:layout_width="320dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:paddingTop="0dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/LinearLayout02"
+        android:paddingTop="5dp"
+        android:layout_marginHorizontal="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true">
+        <TextView
+            android:id="@+id/textSenha"
+            android:textAlignment="viewStart"
+            android:layout_width="125dp"
+            android:layout_weight="2"
+            android:paddingTop="05dp"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:text="Assunto:" />
+
+        <EditText
+            android:id="@+id/caixa_senha"
+            android:layout_width="320dp"
+            android:layout_weight="1"
+            android:paddingTop="0dp"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/LinearLayout13"
+        android:paddingTop="5dp"
+        android:layout_marginHorizontal="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true">
+        <TextView
+            android:id="@+id/textRegistro"
+            android:textAlignment="viewStart"
+            android:paddingTop="05dp"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:layout_width="125dp"
+            android:layout_weight="2"
+            android:layout_height="wrap_content"
+            android:text="Projeto:" />
+
+        <EditText
+            android:id="@+id/caixa_registro"
+            android:layout_width="320dp"
+            android:layout_weight="1"
+            android:paddingTop="05dp"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/LinearLayout03"
+        android:paddingTop="01dp"
+        android:layout_marginHorizontal="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true">
+        <TextView
+            android:id="@+id/text10"
+            android:textAlignment="viewStart"
+            android:paddingTop="05dp"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:layout_width="45dp"
+            android:layout_weight="2"
+            android:layout_height="wrap_content"
+            android:text="Data e Hora:" />
+        <TextView
+            android:id="@+id/textHora"
+            android:textAlignment="viewStart"
+            android:paddingTop="05dp"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:layout_width="125dp"
+            android:layout_weight="2"
+            android:layout_height="wrap_content"
+            android:text="00:00:00  01/01/2019" />
+    </LinearLayout>
+
+    <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+        android:layout_width="360dp"
+        android:paddingTop="10dp"
+        android:layout_height="210dp"
+        android:stretchColumns="0,  "
+        android:gravity="center"
+        android:layout_marginLeft="25dp">
+
+        <TableRow
+            android:background="#000000"
+            android:layout_width="15dp"
+            android:layout_height="0dp"
+            android:layout_margin="1dp"
+            android:layout_weight="1" >
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text=" Mensagem  . . . "
+                android:layout_margin="1dp"
+                android:layout_column="0"
+                android:background="#FFFFFF"
+                android:textStyle="bold"
+                android:gravity="center" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text=""
+                android:layout_margin="1dp"
+                android:layout_column="1"
+                android:background="#FFFFFF"
+                android:gravity="center"
+                android:textStyle="bold"/>
+        </TableRow>
+    </TableLayout>
+
+    <LinearLayout
+        android:id="@+id/LinearLayout10"
+        android:paddingTop="20dp"
+        android:layout_marginHorizontal="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true">
+        <Button
+            android:id="@+id/ResponderButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textSize="16sp"
+            android:text="Responder" />
+        <Button
+            android:id="@+id/ApagarButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textSize="16sp"
+            android:text="Apagar" />
+        <Button
+            android:id="@+id/SairButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textSize="16sp"
+            android:text="Sair" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.projeto.fluxok">
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".EtapaActivity"></activity>
+        <activity android:name=".CronogramaActivity" />
+        <activity android:name=".FluxoActivity" />
+        <activity android:name=".MensagemActivity" />
+        <activity android:name=".BriefingActivity" />
+        <activity android:name=".NovaMensagemActivity" />
+        <activity android:name=".MensagensActivity" />
+        <activity android:name=".ProjetosActivity" />
+        <activity android:name=".SenhaActivity" />
+        <activity android:name=".CadastroActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

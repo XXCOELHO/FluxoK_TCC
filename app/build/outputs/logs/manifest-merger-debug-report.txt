@@ -1,0 +1,212 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml:2:1-33:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\2a1bb47a61b026590a44076339cd4126\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\71a9023b751e6218b36c4f16c7ce4280\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\8c73b6022f0577756e76cb7e81f701f9\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\8fa9128e41640cdf4bf9e66c88a4a860\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\384608aeff842d24e03e009e4523703e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\898a92cab19201a7d1cebc6ce0d9da0e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\884fcbb379fbf99a4e3f07a4a7ccc616\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\dd773c9aaea5ac93ffd2394ef38495e9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\0a20ea818dc16a0f018ccd0ed37e2bcd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\be674037e7a6ec104ae286d18bfa13c4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\4d585e18f377759f095d131d2e49d343\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\7c49213e9ec614c8cf04af8ca18d0d11\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\9c0bd4a7aa79e5244a489197120ed1e1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\0649b891866bfdf1e2a4b974f282b5c6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\c6aa76905dcbdeacfeff5efe3106bbe3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\3d8039bc322557c714848f4d421d8f69\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\00f94d18fe982bfe6c2ec1f210dfebff\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\37c1d3dae5fcdd0f0b4ffa492fa90a4a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\8398d8ab3a65b40b175fe5518fe6d9b6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\62f5d7e33bab150eb6608463fe79acef\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\7b1550627dc08a3cbec338ab527b870b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\01b2835bc41b616f881e879362082860\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\655c0dc25274379b3fb55dcd0222157c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\49c47568de4dfd853badfc945684d151\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\8a7b5721a8705c109257180733fa1db2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\b4a026f711577ba9efbe8fff417f8ce7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\03eb0a0efbf63f78c1ffbf5c5f55659f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\cbbf92a1ff981532386771cee221ca00\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\a60d58bd18c898c0f4c47337c8984757\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\cdf9beb17667ab3da72b6bef386a891a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\bcfc215efef561728d471d48f0dda053\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml:5:22-78
+application
+ADDED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml:7:5-31:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\2a1bb47a61b026590a44076339cd4126\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\2a1bb47a61b026590a44076339cd4126\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\8c73b6022f0577756e76cb7e81f701f9\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\8c73b6022f0577756e76cb7e81f701f9\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\8398d8ab3a65b40b175fe5518fe6d9b6\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\8398d8ab3a65b40b175fe5518fe6d9b6\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\62f5d7e33bab150eb6608463fe79acef\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\62f5d7e33bab150eb6608463fe79acef\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\8398d8ab3a65b40b175fe5518fe6d9b6\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.projeto.fluxok.EtapaActivity
+ADDED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml:14:9-60
+	android:name
+		ADDED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml:14:19-48
+activity#com.projeto.fluxok.CronogramaActivity
+ADDED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml:15:9-56
+	android:name
+		ADDED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml:15:19-53
+activity#com.projeto.fluxok.FluxoActivity
+ADDED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml:16:9-51
+	android:name
+		ADDED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml:16:19-48
+activity#com.projeto.fluxok.MensagemActivity
+ADDED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml:17:9-54
+	android:name
+		ADDED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml:17:19-51
+activity#com.projeto.fluxok.BriefingActivity
+ADDED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml:18:9-54
+	android:name
+		ADDED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml:18:19-51
+activity#com.projeto.fluxok.NovaMensagemActivity
+ADDED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml:19:9-58
+	android:name
+		ADDED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml:19:19-55
+activity#com.projeto.fluxok.MensagensActivity
+ADDED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml:20:9-55
+	android:name
+		ADDED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml:20:19-52
+activity#com.projeto.fluxok.ProjetosActivity
+ADDED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml:21:9-54
+	android:name
+		ADDED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml:21:19-51
+activity#com.projeto.fluxok.SenhaActivity
+ADDED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml:22:9-51
+	android:name
+		ADDED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml:22:19-48
+activity#com.projeto.fluxok.CadastroActivity
+ADDED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml:23:9-54
+	android:name
+		ADDED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml:23:19-51
+activity#com.projeto.fluxok.MainActivity
+ADDED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml:24:9-30:20
+	android:name
+		ADDED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml:24:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml:28:27-74
+uses-sdk
+INJECTED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\2a1bb47a61b026590a44076339cd4126\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\2a1bb47a61b026590a44076339cd4126\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\71a9023b751e6218b36c4f16c7ce4280\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\71a9023b751e6218b36c4f16c7ce4280\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\8c73b6022f0577756e76cb7e81f701f9\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\8c73b6022f0577756e76cb7e81f701f9\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\8fa9128e41640cdf4bf9e66c88a4a860\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\8fa9128e41640cdf4bf9e66c88a4a860\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\384608aeff842d24e03e009e4523703e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\384608aeff842d24e03e009e4523703e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\898a92cab19201a7d1cebc6ce0d9da0e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\898a92cab19201a7d1cebc6ce0d9da0e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\884fcbb379fbf99a4e3f07a4a7ccc616\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\884fcbb379fbf99a4e3f07a4a7ccc616\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\dd773c9aaea5ac93ffd2394ef38495e9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\dd773c9aaea5ac93ffd2394ef38495e9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\0a20ea818dc16a0f018ccd0ed37e2bcd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\0a20ea818dc16a0f018ccd0ed37e2bcd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\be674037e7a6ec104ae286d18bfa13c4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\be674037e7a6ec104ae286d18bfa13c4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\4d585e18f377759f095d131d2e49d343\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\4d585e18f377759f095d131d2e49d343\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\7c49213e9ec614c8cf04af8ca18d0d11\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\7c49213e9ec614c8cf04af8ca18d0d11\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\9c0bd4a7aa79e5244a489197120ed1e1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\9c0bd4a7aa79e5244a489197120ed1e1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\0649b891866bfdf1e2a4b974f282b5c6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\0649b891866bfdf1e2a4b974f282b5c6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\c6aa76905dcbdeacfeff5efe3106bbe3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\c6aa76905dcbdeacfeff5efe3106bbe3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\3d8039bc322557c714848f4d421d8f69\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\3d8039bc322557c714848f4d421d8f69\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\00f94d18fe982bfe6c2ec1f210dfebff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\00f94d18fe982bfe6c2ec1f210dfebff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\37c1d3dae5fcdd0f0b4ffa492fa90a4a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\37c1d3dae5fcdd0f0b4ffa492fa90a4a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\8398d8ab3a65b40b175fe5518fe6d9b6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\8398d8ab3a65b40b175fe5518fe6d9b6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\62f5d7e33bab150eb6608463fe79acef\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\62f5d7e33bab150eb6608463fe79acef\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\7b1550627dc08a3cbec338ab527b870b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\7b1550627dc08a3cbec338ab527b870b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\01b2835bc41b616f881e879362082860\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\01b2835bc41b616f881e879362082860\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\655c0dc25274379b3fb55dcd0222157c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\655c0dc25274379b3fb55dcd0222157c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\49c47568de4dfd853badfc945684d151\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\49c47568de4dfd853badfc945684d151\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\8a7b5721a8705c109257180733fa1db2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\8a7b5721a8705c109257180733fa1db2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\b4a026f711577ba9efbe8fff417f8ce7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\b4a026f711577ba9efbe8fff417f8ce7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\03eb0a0efbf63f78c1ffbf5c5f55659f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\03eb0a0efbf63f78c1ffbf5c5f55659f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\cbbf92a1ff981532386771cee221ca00\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\cbbf92a1ff981532386771cee221ca00\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\a60d58bd18c898c0f4c47337c8984757\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\a60d58bd18c898c0f4c47337c8984757\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\cdf9beb17667ab3da72b6bef386a891a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\cdf9beb17667ab3da72b6bef386a891a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\bcfc215efef561728d471d48f0dda053\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Greg\.gradle\caches\transforms-2\files-2.1\bcfc215efef561728d471d48f0dda053\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Greg\AndroidStudioProjects\FluxoK\app\src\main\AndroidManifest.xml
